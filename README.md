@@ -31,7 +31,7 @@
 
 | Home Page | Playlist | Player |
 |-----------|----------|--------|
-| ![Home](screenshots/home.png) | 
+| ![Home](Meloro.jpeg) | 
 
 ---
 
