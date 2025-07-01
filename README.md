@@ -29,8 +29,8 @@
 
 ## 📸 Screenshots
 
-| Home Page | Playlist | Player |
-|-----------|----------|--------|
+| Home Page | 
+|-----------|
 | ![Home](Meloro.jpeg) | 
 
 ---
