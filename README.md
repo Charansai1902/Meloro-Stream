@@ -31,7 +31,7 @@
 
 | Home Page | Playlist | Player |
 |-----------|----------|--------|
-| ![Home](screenshots/home.png) | ![Playlist](screenshots/playlist.png) | ![Player](screenshots/player.png) |
+| ![Home](screenshots/home.png) | 
 
 ---
 
@@ -111,8 +111,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**Charan Sai** - [charansai2003](https://github.com/charansai2003)
-
+**Charan Sai** 
 ---
 
 ## 🙏 Acknowledgments
